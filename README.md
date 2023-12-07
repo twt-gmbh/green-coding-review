@@ -104,6 +104,6 @@ Then, the scripts can again be used to run the evaluations.
 ## Acknowledgements
 
 The work on this paper inspired a development project between Mercedes-Benz and TWT. 
-The main authors of the paper related to this repository are Tina Vartziotis, Ippolyti Dellatolas, George Dasoulas, Maximilian Schmidt, Florian Schneider, Tim Hoffmann, Sotirios Kotsopoulos, Jan Brecht, Michael Keckeisen.
+The main authors of the paper related to this repository are Tina Vartziotis, Ippolyti Dellatolas, George Dasoulas, Maximilian Schmidt, Florian Schneider, Tim Hoffmann, Sotirios Kotsopoulos, Michael Keckeisen.
 
 We express our gratitude to Raphaela Löbel from TWT, Maria Stasinou from NIKI Ltd Digital Engineering, and Viet Dung Le from Mercedes-Benz for their engaging and informative discussions, which significantly influenced the project’s scope.
